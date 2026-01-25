@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Michael Sanjaya
+==
+Quality Control professional in manufacturing, transitioning into
+Data Analysis / Data Science.
+--
+*Currently balancing full-time work, university, and structured
+professional courses while building a data-focused portfolio.*
 
-<!--
-**mchlsn/mchlsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎯 Focus:**
+- Data Analysis & Visualization
+- SQL & Database Fundamentals
+- Python for Data
+- Machine Learning fundamentals
+- Manufacturing & production analytics
 
-Here are some ideas to get you started:
+**📚 Learning Highlights:**
+- Python programming (private mentoring)
+- OOP & multi-language fundamentals (Java, C++)
+- Pijak x Dicoding Scholarship:
+  AI, Data Analysis, Machine Learning, and Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 Experience:
+- Production & reject analysis
+- Operator and supervisor performance analytics
+- Academic & portfolio dashboards using real operational data
+
+📌 Principle:
+Strong fundamentals, real-world data, consistent progress.
+
+LinkedIn: https://www.linkedin.com/in/michael-sanjaya-2ba85328a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
