@@ -27,4 +27,13 @@ professional courses while building a data-focused portfolio.*
 📌 Principle:
 Strong fundamentals, real-world data, consistent progress.
 
+**Reach Me On:**
 LinkedIn: https://www.linkedin.com/in/michael-sanjaya-2ba85328a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+### GitHub Statistic
+<p align="left">
+<a href="https://github.com/mchlsn">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
