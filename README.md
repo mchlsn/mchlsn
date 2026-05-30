@@ -28,7 +28,7 @@ professional courses while building a data-focused portfolio.*
 Strong fundamentals, real-world data, consistent progress.
 
 **Reach Me On:**
-LinkedIn: https://www.linkedin.com/in/mchlsn
+[LinkedIn]: (https://www.linkedin.com/in/mchlsn) 
 
 ### GitHub Statistic
 <p align="left">
