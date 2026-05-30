@@ -28,7 +28,7 @@ professional courses while building a data-focused portfolio.*
 Strong fundamentals, real-world data, consistent progress.
 
 **Reach Me On:**
-LinkedIn: https://www.linkedin.com/in/michael-sanjaya-2ba85328a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+LinkedIn: https://www.linkedin.com/in/mchlsn
 
 ### GitHub Statistic
 <p align="left">
