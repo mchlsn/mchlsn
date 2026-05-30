@@ -28,6 +28,7 @@ professional courses while building a data-focused portfolio.*
 Strong fundamentals, real-world data, consistent progress.
 
 **Reach Me On :**
+
 📧 michaelsanjaya633@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/mchlsn)
 
