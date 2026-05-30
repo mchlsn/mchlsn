@@ -27,8 +27,9 @@ professional courses while building a data-focused portfolio.*
 📌 Principle:
 Strong fundamentals, real-world data, consistent progress.
 
-**Reach Me On:**
-[LinkedIn]: (https://www.linkedin.com/in/mchlsn) 
+**Reach Me On :**
+📧 michaelsanjaya633@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/mchlsn)
 
 ### GitHub Statistic
 <p align="left">
