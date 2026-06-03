@@ -21,7 +21,7 @@ professional courses while building a data-focused portfolio.*
 
 🧪 Experience:
 - Production & reject analysis
-- Operator and supervisor performance analytics
+- Operator and supervisor performance analytics using Power BI
 - Academic & portfolio dashboards using real operational data
 
 📌 Principle:
